@@ -1,0 +1,31 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ir1shaz/liri-node-app.git"
+  },
+  "author": "Andy Sargent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ir1shaz/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/ir1shaz/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "inquirer": "^5.0.0",
+    "moment": "^2.20.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "simple-twitter": "^1.0.7",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1",
+    "simple-node-logger": "^0.93.33"
+  }
+}

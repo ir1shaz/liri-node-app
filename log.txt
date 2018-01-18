@@ -1,0 +1,12 @@
+16:51:43.878 INFO  Artist(s): Beastie Boys 
+16:51:43.882 INFO  Song: Brass Monkey 
+16:51:43.886 INFO  Spotify Preview URL: null 
+16:51:43.886 INFO  Album Name: Licensed To Ill 
+16:54:54.494 INFO  Artist(s): Backstreet Boys 
+16:54:54.494 INFO  Song: I Want It That Way 
+16:54:54.502 INFO  Spotify Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0b92f96e18ba45ab9a915123a27fdd79 
+16:54:54.502 INFO  Album Name: The Hits--Chapter One 
+17:10:53.695 INFO  Artist(s): Beastie Boys 
+17:10:53.699 INFO  Song: Brass Monkey 
+17:10:53.703 INFO  Spotify Preview URL: null 
+17:10:53.703 INFO  Album Name: Licensed To Ill 
